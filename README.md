@@ -3,7 +3,7 @@
 
 Email Me 👉 ✉️ **altaffaisal532@gmail.com** For Collaboration/Project.
 
-- 🌱 **I’m currently learning:** .NET and AI
+- 🌱 **I’m currently pursuing:** Full Stack Development & AI/ML
 - 📫 **How to reach me:** altaffaisal532@gmail.com
 - 😄 **Pronouns:** Altaf Jr.
 
